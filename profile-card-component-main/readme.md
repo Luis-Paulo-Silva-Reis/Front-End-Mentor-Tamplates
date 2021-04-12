@@ -1,1 +1,1 @@
-https://profile-card-component-main-olive-xi.vercel.app/
+DEPLOY https://profile-card-component-main-olive-xi.vercel.app/
